@@ -1,3 +1,10 @@
+<#
+.Synopsis
+Used to compare the Active Directory group membership of 2 users.
+
+.Description
+Used to compare the Active Directory group membership of 2 users.
+#>
 Function Compare-ADGroups {
 
 # Enter First AD User 
